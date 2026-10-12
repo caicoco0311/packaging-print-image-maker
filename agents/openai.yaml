@@ -1,0 +1,4 @@
+interface:
+  display_name: "Alibaba Packaging Image Maker"
+  short_description: "Create Alibaba packaging images from text, image, link, or batch"
+  default_prompt: "Use $packaging-print-image-maker to accept text, image, Alibaba link, or spreadsheet input; research or reuse product references; create B2B listing metadata; and generate a physically consistent six-image set."
